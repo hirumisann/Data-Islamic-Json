@@ -106,10 +106,6 @@ Pastikan setiap penambahan data memiliki sumber yang jelas dan telah diperiksa k
 
 Repository ini disediakan untuk tujuan pembelajaran dan pengembangan perangkat lunak. Periksa sumber, keakuratan, kelengkapan, serta lisensi masing-masing dataset sebelum menggunakannya atau mendistribusikannya kembali.
 
-## 📄 License
-
-Informasi lisensi belum dicantumkan. Tambahkan file `LICENSE` setelah menentukan lisensi yang sesuai dan memastikan hak redistribusi dataset.
-
 ## ⭐ Support
 
 Jika repository ini bermanfaat untuk proyekmu, pertimbangkan untuk memberikan **Star** di GitHub agar repository ini lebih mudah ditemukan oleh developer lainnya.
